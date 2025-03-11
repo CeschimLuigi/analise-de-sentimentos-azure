@@ -1,5 +1,8 @@
-Estou muito satisfeito com a qualidade do produto. Ele funciona perfeitamente e chegou antes do prazo previsto.
+ Texto Positivo
+- "Estou muito satisfeito com a qualidade do produto. Ele funciona perfeitamente e chegou antes do prazo previsto."*
 
-produto chegou com defeito e foi uma decepção. Não atendeu às minhas expectativas e eu não voltaria a comprar.
+ Texto Neutro
+- "O produto está de acordo com a descrição."*
 
-A experiência foi OK. Não tive grandes problemas, mas acredito que há espaço para melhorias no atendimento.
+ Texto Negativo
+- "Produto chegou com defeito e foi uma decepção. Não atendeu às minhas expectativas e eu não voltaria a comprar."*
